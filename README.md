@@ -1,1 +1,0 @@
-One Page Tesla Clone- Made with React and Typescript.  
